@@ -1,4 +1,4 @@
-# Proyek Klasifikasi Prediksi Kepuasan Pelanggan.
+# Proyek Klasifikasi Prediksi Kepuasan Pelanggan
 
 ## Domain Proyek :
 - Dataset : Invistico Airline.csv
